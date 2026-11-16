@@ -1,4 +1,4 @@
-# 🚀 Gerenciador de Projetos e Tarefas (CLI)
+# 🚀 Gerenciador de Etapas de Projetos (CLI)
 
 Sistema de linha de comando (CLI) para gerenciamento de projetos, etapas e comentários, desenvolvido em **Python** integrando os conceitos de **Programação Orientada a Objetos (POO)**, persistência relacional em **SQLite** e interface interativa estilizada com a biblioteca **Rich**.
 
